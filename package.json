@@ -1,16 +1,16 @@
 {
   "author": "Girma Nigusse <xgirma@gmail.com>",
   "bugs": {
-    "url": "https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/issues"
+    "url": "https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-assert/issues"
   },
   "dependencies": {
-    "@cypress/browserify-preprocessor": "2.1.4",
+    "@cypress/webpack-preprocessor": "4.1.2",
     "cypress": "4.2.0",
     "rimraf": "3.0.2",
     "ts-loader": "6.2.2",
     "typescript": "3.8.3"
   },
-  "description": "Cypress end-to-end test automation boilerplate. Using TypeScript, Browserify, Chai and Should.",
+  "description": "Cypress end-to-end test automation boilerplate. Using TypeScript, Webpack, Chai and Assert.",
   "devDependencies": {
     "@types/chai": "4.2.11",
     "eslint-plugin-cypress": "2.10.3",
@@ -21,23 +21,23 @@
     "tslint-config-prettier": "1.18.0",
     "tslint-plugin-prettier": "2.3.0"
   },
-  "homepage": "https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should#readme",
+  "homepage": "https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-assert#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
     }
   },
   "keywords": [
+    "assert",
     "boilerplate",
-    "browserify",
     "chai",
     "cypress",
     "e2e",
     "e2e tests",
     "example",
     "integration test",
-    "should",
-    "typescript"
+    "typescript",
+    "webpack"
   ],
   "license": "MIT",
   "lint-staged": {
@@ -45,10 +45,10 @@
       "prettier --write"
     ]
   },
-  "name": "cypress-typescript-browserify-chai-should",
+  "name": "cypress-typescript-webpack-chai-assert",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should.git"
+    "url": "git+https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-assert.git"
   },
   "scripts": {
     "clean:screenshots": "npx cypress/screenshots/*",
