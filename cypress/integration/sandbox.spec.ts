@@ -4,7 +4,11 @@ describe("Sandbox", () => {
   });
 
   it("should be on Sandbox", () => {
-    cy.title().should("eq", "Sandbox");
-    cy.get("h1").should("have.text", "Sandbox");
+    cy.title().then((title) => {
+      assert.equal(title, "Sandbox");
+    });
+    cy.get("h1").then((header) => {
+      assert.equal(heade, "Sandbox");
+    });
   });
 });
