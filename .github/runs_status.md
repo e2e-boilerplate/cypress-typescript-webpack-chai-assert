@@ -1,0 +1,32 @@
+| No  | Date           | Build                                                                                                                                                                    |
+| :-- | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 171 | 28/03/20 20:02 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/65533068) |
+| 173 | 28/03/20 22:24 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/65596084) |
+| 177 | 29/03/20 10:40 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/65864066) |
+| 175 | 29/03/20 07:15 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/65783348) |
+| 176 | 29/03/20 09:31 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/65835074) |
+| 174 | 29/03/20 07:05 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/65777958) |
+| 170 | 28/03/20 19:13 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/65521191) |
+| 169 | 28/03/20 15:53 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/65439845) |
+| 168 | 28/03/20 13:04 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/65373340) |
+| 172 | 28/03/20 20:09 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/65544932) |
+| 155 | 24/03/20 03:20 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/62026276) |
+| 157 | 24/03/20 22:24 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/62686093) |
+| 165 | 26/03/20 23:56 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/64316352) |
+| 164 | 26/03/20 22:22 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/64281728) |
+| 152 | 23/03/20 23:41 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/61932694) |
+| 166 | 27/03/20 19:09 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/64974128) |
+| 161 | 25/03/20 08:13 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/62974124) |
+| 151 | 23/03/20 22:31 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/61904778) |
+| 162 | 26/03/20 09:01 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/63793656) |
+| 167 | 27/03/20 19:44 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/64985224) |
+| 159 | 25/03/20 07:37 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/62951395) |
+| 153 | 24/03/20 00:10 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/61947691) |
+| 158 | 25/03/20 07:02 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/62928935) |
+| 160 | 25/03/20 07:42 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/62952741) |
+| 156 | 24/03/20 21:19 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/62659575) |
+| 163 | 26/03/20 09:19 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/63809822) |
+| 148 | 23/03/20 20:26 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/61854201) |
+| 154 | 24/03/20 01:10 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/61971466) |
+| 149 | 23/03/20 22:11 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/61899636) |
+| 150 | 23/03/20 22:15 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-browserify-chai-should/actions/runs/61899883) |
