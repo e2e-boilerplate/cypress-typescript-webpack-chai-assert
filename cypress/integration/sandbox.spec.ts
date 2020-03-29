@@ -8,7 +8,7 @@ describe("Sandbox", () => {
       assert.equal(title, "Sandbox");
     });
     cy.get("h1").then((header) => {
-      assert.equal(heade, "Sandbox");
+      assert.equal(header, "Sandbox");
     });
   });
 });
