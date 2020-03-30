@@ -63,6 +63,7 @@ typings/
 # cypress
 cypress/videos/
 cypress/screenshot/
+build
 
 # WebStorm
 .idea
