@@ -1,6 +1,6 @@
 | referrer                                                                                                | count | uniques |
 | :------------------------------------------------------------------------------------------------------ | :---- | :------ |
-| /e2e-boilerplate/cypress-typescript-webpack-chai-assert                                                 | 33    | 1       |
+| /e2e-boilerplate/cypress-typescript-webpack-chai-assert                                                 | 35    | 2       |
 | /e2e-boilerplate/cypress-typescript-webpack-chai-assert/actions                                         | 10    | 1       |
 | /e2e-boilerplate/cypress-typescript-webpack-chai-assert/tree/master/cypress                             | 10    | 1       |
 | /e2e-boilerplate/cypress-typescript-webpack-chai-assert/blob/master/cypress/integration/sandbox.spec.ts | 7     | 1       |
@@ -8,5 +8,5 @@
 | /e2e-boilerplate/cypress-typescript-webpack-chai-assert/blob/master/package.json                        | 5     | 1       |
 | /e2e-boilerplate/cypress-typescript-webpack-chai-assert/tree/master/cypress/plugins                     | 5     | 1       |
 | /e2e-boilerplate/cypress-typescript-webpack-chai-assert/tree/master/cypress/integration                 | 4     | 1       |
+| /e2e-boilerplate/cypress-typescript-webpack-chai-assert/tree/master/.github                             | 4     | 1       |
 | /e2e-boilerplate/cypress-typescript-webpack-chai-assert/actions/runs/66963489                           | 3     | 1       |
-| /e2e-boilerplate/cypress-typescript-webpack-chai-assert/edit/master/cypress/integration/sandbox.spec.ts | 3     | 1       |
