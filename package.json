@@ -32,15 +32,16 @@
   },
   "keywords": [
     "assert",
-    "boilerplate",
     "chai",
     "cypress",
+    "typescript",
+    "webpack",
     "e2e",
     "e2e tests",
-    "example",
+    "boilerplate",
     "integration test",
-    "typescript",
-    "webpack"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
